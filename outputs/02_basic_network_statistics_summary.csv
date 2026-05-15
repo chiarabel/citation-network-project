@@ -1,0 +1,14 @@
+Metric,Value
+Nodes,27769.0
+Directed edges,352768.0
+Directed density,0.00045749288235756656
+Weakly connected components,142.0
+Largest weak component size,27400.0
+Largest weak component ratio,0.9867118009290936
+Strongly connected components,20085.0
+Largest strong component size,7464.0
+Largest strong component ratio,0.2687889373041881
+Reciprocity,0.0027383436139332366
+Undirected edges,352285.0
+Undirected density,0.0009137329920023094
+Average clustering coefficient,0.31203073205873283
